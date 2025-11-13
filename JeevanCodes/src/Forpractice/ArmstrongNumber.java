@@ -1,5 +1,6 @@
 package Forpractice;
-
+ 
+//Armstrong Number Program in java
 public class ArmstrongNumber {
 	public static void main(String[] args) {
 		int n=153,rem,sum=0,temp=n;
